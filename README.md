@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+All plugin development has moved to https://github.com/RADAR-base/radar-commons-android in the plugins directory. Please view that directory for examples of a plugin.
+
 # Plugin Template
 
 Template for new RADAR pRMT plugins
